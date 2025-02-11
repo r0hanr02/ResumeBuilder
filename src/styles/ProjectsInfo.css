@@ -1,0 +1,19 @@
+.projects-info {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 8px;
+  border-left: 3px solid #4a90e2;
+}
+
+.projects-info-name {
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+}
+
+.projects-info-description {
+  font-size: 14px;
+  color: #555;
+  line-height: 1;
+}
