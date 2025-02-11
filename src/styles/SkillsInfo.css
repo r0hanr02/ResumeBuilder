@@ -1,0 +1,26 @@
+.skills-info {
+  display: inline-block;
+  background-color: #f4f4f4;
+  padding: 5px 10px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 5px;
+  visibility: visible; 
+  opacity: 1;
+}
+
+.skills-info-name {
+  color: var(--resume-bold);
+}
+
+.skills-info-name {
+  display: inline-block;
+  visibility: visible;
+  opacity: 1;
+}
+
+.skills-info-name {
+  visibility: visible;
+  opacity: 1;
+}
