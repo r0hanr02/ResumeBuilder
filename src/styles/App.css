@@ -32,6 +32,7 @@ form {
   background-color:whitesmoke;
   border-radius: 20px;
   font-weight:bold;
+  border:5px;
 }
 .downloadBtn:hover{
   transition:.5s;
