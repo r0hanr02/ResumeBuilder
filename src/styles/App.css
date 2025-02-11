@@ -31,4 +31,10 @@ form {
   height: 50px;
   background-color:whitesmoke;
   border-radius: 20px;
+  font-weight:bold;
+}
+.downloadBtn:hover{
+  transition:.5s;
+  background-color:gray;
+  color:white;
 }
