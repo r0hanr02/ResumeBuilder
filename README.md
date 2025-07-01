@@ -1,6 +1,6 @@
-# AI Resume Builder ✨
+# Resume Builder ✨
 
-A frontend-only AI-powered Resume Builder that allows users to generate professional resumes through an intuitive form interface. Built using **React**, **Vite**, and **Tailwind CSS**, with support for multiple themes and downloadable outputs.
+A frontend-only powered Resume Builder that allows users to generate professional resumes through an intuitive form interface. Built using **React**, **Vite**, and **Tailwind CSS**, with support for multiple themes and downloadable outputs.
 
 ## 🚀 Features
 
